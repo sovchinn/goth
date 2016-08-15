@@ -14,7 +14,7 @@ import (
 	"os"
 
 	"github.com/gorilla/sessions"
-	"github.com/markbates/goth"
+	"github.com/sovchinn/goth"
 )
 
 // SessionName is the key used to access the session store.
